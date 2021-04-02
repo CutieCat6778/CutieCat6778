@@ -1,7 +1,7 @@
-### CutieCat6778
+# CutieCat6778
 I am a self taught Computer Engineer, my main technology that I'm using is **Javascript**. Now currently I'm still in highschool and keep learning new stuff about Computer Engineering!
 
-# Stuff about me
+### Stuff about me
 - 🔭 I’m currently not working on any projects
 - 🌱 I’m currently learning about new techonologies
 - 👯 I’m looking to collaborate on a **Discord.js** project
