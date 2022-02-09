@@ -9,7 +9,9 @@ here [txzje.xyz](https://txzje.xyz)
 ### Wanna contact me?
 
 [gmail](mailto:thinhnguyenhuuhung@gmail.com)
+
 [facebook](https://facebook.com/txzje)
+
 [instagram](https://instagram.com/txzje)
 
 
