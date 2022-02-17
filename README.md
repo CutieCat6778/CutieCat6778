@@ -4,7 +4,7 @@ A very dumb programmer
 
 ### Wanna visit my website?
 
-here [txzje.xyz](https://txzje.xyz)
+here [thinh.tech](https://thinh.tech)
 
 ### Wanna contact me?
 
