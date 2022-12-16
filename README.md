@@ -14,5 +14,7 @@ here [thinh.tech](https://thinh.tech)
 
 [instagram](https://instagram.com/txzje)
 
+![CutieCat6778's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 Thanks and bai
