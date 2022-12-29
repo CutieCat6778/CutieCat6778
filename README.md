@@ -16,4 +16,6 @@ here [thinh.tech](https://thinh.tech)
 
 ![CutieCat6778's GitHub stats](https://github-readme-stats.vercel.app/api?username=CutieCat6778&show_icons=true&theme=transparent)
 
+![Coding stats](https://wakatime.com/share/@4afa9149-7101-4ea6-8fa0-255a4d5fe334/0e983853-7909-4126-9741-fe49c4c59d48.svg)
+
 Thanks and bai
