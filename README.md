@@ -19,4 +19,8 @@ here [thinh.tech](https://thinh.tech)
 ![overview](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![languages](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+![image](https://user-images.githubusercontent.com/51492960/215352504-0bd2fe19-0bbc-45b5-adb7-2a8a9719e00c.png)
+
+https://iq-tests.co/iq-score/?iq=128&eid=2cf877
+
 Thanks and bai
