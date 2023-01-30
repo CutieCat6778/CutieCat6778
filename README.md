@@ -8,9 +8,7 @@ here [thinh.tech](https://thinh.tech)
 
 ### Wanna contact me?
 
-[gmail](mailto:thinhnguyenhuuhung@gmail.com)
-
-[facebook](https://facebook.com/txzje)
+[gmail](mailto:thinh@thinh.tech)
 
 [instagram](https://instagram.com/txzje)
 
