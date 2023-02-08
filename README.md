@@ -10,8 +10,6 @@ here [thinh.tech](https://thinh.tech)
 
 [gmail](mailto:thinh@thinh.tech)
 
-[instagram](https://instagram.com/txzje)
-
 ![CutieCat6778's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=CutieCat6778&show_icons=true&theme=transparent)
 
 ![overview](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/overview.svg#gh-dark-mode-only)
