@@ -8,7 +8,7 @@ here [thinh.tech](https://thinh.tech)
 
 ### Wanna contact me?
 
-[E-Mail](mailto:thinh@thinh.tech)
+---> [E-Mail](mailto:thinh@thinh.tech) <--- CONTACT
 
 ![CutieCat6778's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=CutieCat6778&show_icons=true&theme=transparent)
 
