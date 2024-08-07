@@ -7,7 +7,6 @@ A very dumb school boi, that taught him self programming.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/wakatime/?username=CutieCat6778&show_icons=true&theme=transparent)<br/>
 ![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/overview.svg#gh-dark-mode-only)<br/>
 ![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
@@ -17,6 +16,3 @@ A very dumb school boi, that taught him self programming.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CutieCat6778&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cutiecat6778) 
