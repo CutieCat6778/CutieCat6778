@@ -7,7 +7,9 @@ A very dumb school boi, that taught him self programming.
 
 # Code Frequency
 
-![](https://wakatime.com/share/@CutieCat6778/e30b15ae-cdff-4b54-abb5-f6aec204df52.svg)
+<p>
+  <img src="https://wakatime.com/share/@CutieCat6778/7fe699ac-64ad-40ea-b13e-baa5be4df9f2.svg" width="700px" </img>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/overview.svg#gh-dark-mode-only)<br/>
