@@ -9,11 +9,9 @@ A very dumb school boi, that taught him self programming.
 <!--START_SECTION:waka-->
 
 ```txt
-Go         27 mins         ████████▒░░░░░░░░░░░░░░░░   32.69 %
-Erlang     25 mins         ███████▓░░░░░░░░░░░░░░░░░   30.31 %
-Python     12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Text       11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
-Makefile   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Go       27 mins         █████████████▒░░░░░░░░░░░   53.64 %
+Python   12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.04 %
+Text     11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
 ```
 
 <!--END_SECTION:waka-->
