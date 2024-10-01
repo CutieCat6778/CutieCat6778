@@ -9,9 +9,7 @@ A very dumb school boi, that taught him self programming.
 <!--START_SECTION:waka-->
 
 ```txt
-Go       27 mins         █████████████▒░░░░░░░░░░░   53.64 %
-Python   12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.04 %
-Text     11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
