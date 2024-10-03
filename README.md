@@ -9,7 +9,11 @@ A very dumb school boi, that taught him self programming.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go             8 hrs 6 mins    █████████████▒░░░░░░░░░░░   53.20 %
+Lua            3 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   19.82 %
+Java           2 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+Bash           54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Other          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
