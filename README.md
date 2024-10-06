@@ -9,11 +9,11 @@ A very dumb school boi, that taught him self programming.
 <!--START_SECTION:waka-->
 
 ```txt
-Go             9 hrs 59 mins   ████████▓░░░░░░░░░░░░░░░░   35.08 %
-i3config       3 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-Lua            3 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-Java           2 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-tmux           2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Go             8 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
+Zig            4 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
+i3config       3 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Lua            3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Java           2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
 ```
 
 <!--END_SECTION:waka-->
