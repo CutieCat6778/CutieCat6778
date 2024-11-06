@@ -11,11 +11,11 @@ I'm using arch btw!
 <!--START_SECTION:waka-->
 
 ```txt
-Go            11 hrs 43 mins  ██████████▒░░░░░░░░░░░░░░   40.87 %
-swayconfig    7 hrs 36 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
-Other         4 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
-TypeScript    2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-Bash          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Go           13 hrs 29 mins  ███████████░░░░░░░░░░░░░░   43.76 %
+swayconfig   7 hrs 37 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.74 %
+Other        4 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+TypeScript   2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Bash         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
 ```
 
 <!--END_SECTION:waka-->
