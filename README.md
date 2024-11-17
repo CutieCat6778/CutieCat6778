@@ -1,7 +1,7 @@
 # 💫 About Me:
 A very dumb school boi, that taught him self programming.
 
-I'm using arch btw!
+### I'm using arch btw!
 
 
 ## 🌐 Socials:
