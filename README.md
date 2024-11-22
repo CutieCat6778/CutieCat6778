@@ -11,11 +11,11 @@ A very dumb school boi, that taught him self programming.
 <!--START_SECTION:waka-->
 
 ```txt
-Go           9 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   32.78 %
-TypeScript   7 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
-Java         4 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
-JavaScript   1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-HTML         1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Go           8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.35 %
+TypeScript   6 hrs 52 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
+Java         4 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
+JavaScript   1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Markdown     1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
