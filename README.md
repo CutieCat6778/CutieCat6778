@@ -1,4 +1,5 @@
 # 💫 About Me:
+### Thinh Nguyen
 - Student in Fein-technic Highschool (With IT major)
 - Based in Villingen-Schwenningen, Germany
 - Nationality: Vietnam (but Bulgarian citizen)
@@ -18,9 +19,15 @@
 - System Admin (Linux, Networking, Docker, Databases)
 - A small bit of: K8s, Hardwares & Embedded-Programming
 
-### I'm using arch btw!
+### Tools currently in use
+- Arch Linux (Sway & Wayland)
+- Desktop Ryzen G5600G & GTX 1650S
+- ThinkPad T480 (full moded :>)
+- NeoVim (half IDE)
 
 ## 🌐 Socials:
+**For further contacts via E-Mail:** thinh@thinis.de
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thinis.de) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12344712) 
 
 # Activity (last 7 days)
@@ -37,8 +44,7 @@ JavaScript   31 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
-![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/overview.svg#gh-dark-mode-only)<br/>
-![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/overview.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CutieCat6778&icon=0&color=0)](https://visitcount.itsvg.in)
