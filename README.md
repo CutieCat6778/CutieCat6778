@@ -23,7 +23,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thinis.de) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12344712) 
 
-# Activity
+# Activity (last 7 days)
 <!--START_SECTION:waka-->
 
 ```txt
