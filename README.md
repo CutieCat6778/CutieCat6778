@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Thinh Nguyen
-- Student in Fein-technic Highschool (With IT major)
+- Student in Feintechnikschule (With IT major)
 - Based in Villingen-Schwenningen, Germany
 - Nationality: Vietnam (but Bulgarian citizen)
 - Age: 18 fresh
