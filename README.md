@@ -1,8 +1,24 @@
 # 💫 About Me:
-A very dumb school boi, that taught him self programming.
+- Student in Fein-technic Highschool (With IT major)
+- Based in Villingen-Schwenningen, Germany
+- Nationality: Vietnam (but Bulgarian citizen)
+- Age: 18 fresh
+- Languages: German, English, Bulgarian, Vietnamese and little bit of Spanish
+
+### Main programming languages
+- GoLang: 9/10
+- Typescript/Javascript: 10/10
+- Java: 6/10
+- C++: 4/10
+- Rust: 4/10
+
+### IT Fields
+- Frontend (Web-Application & Mobile)
+- Backend (RestAPIs, NoSQL & SQL Databases)
+- System Admin (Linux, Networking, Docker, Databases)
+- A small bit of: K8s, Hardwares & Embedded-Programming
 
 ### I'm using arch btw!
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thinis.de) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12344712) 
