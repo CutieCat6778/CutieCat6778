@@ -7,11 +7,12 @@
 - Languages: German, English, Bulgarian, Vietnamese and little bit of Spanish
 
 ### Main programming languages
-- GoLang: 9/10
+- GoLang: 10/10
 - Typescript/Javascript: 10/10
 - Java: 6/10
 - C++: 4/10
 - Rust: 4/10
+- C: 4/10
 
 ### IT Fields
 - Frontend (Web-Application & Mobile)
