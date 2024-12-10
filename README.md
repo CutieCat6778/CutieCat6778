@@ -35,10 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Zig     34 mins         ███████████████████▒░░░░░   77.55 %
-Lua     6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
-Other   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-netrw   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
