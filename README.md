@@ -24,7 +24,7 @@
 - Arch Linux (Sway & Wayland)
 - Desktop Ryzen G5600G & GTX 1650S
 - ThinkPad T480 ([full moded](https://www.reddit.com/r/thinkpad/comments/1cq3u2u/the_ultimate_thinkpad_t480_buying_guide/) :>)
-- NeoVim (half IDE)
+- NeoVim + Tmux
 
 ## 🌐 Socials:
 **For further contacts via E-Mail:** thinh@thinis.de
