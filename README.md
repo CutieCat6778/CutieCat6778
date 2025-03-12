@@ -35,7 +35,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash         8 mins          ███████████████████░░░░░░   75.66 %
+swayconfig   2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.34 %
 ```
 
 <!--END_SECTION:waka-->
