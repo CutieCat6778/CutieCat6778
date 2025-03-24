@@ -35,7 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+i3config     1 hr 3 mins     ███████████████░░░░░░░░░░   59.83 %
+conf         16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+Go           10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+TOML         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 ```
 
 <!--END_SECTION:waka-->
