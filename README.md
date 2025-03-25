@@ -21,9 +21,9 @@
 - A small bit of: K8s, Hardwares & Embedded-Programming
 
 ### Tools currently in use
-- Arch Linux (Sway & Wayland)
-- Desktop Ryzen G5600G & GTX 1650S
-- ThinkPad T480 ([full moded](https://www.reddit.com/r/thinkpad/comments/1cq3u2u/the_ultimate_thinkpad_t480_buying_guide/) :>)
+- Arch Linux
+- Desktop Intel i7 12900 + Rtx 3060
+- ThinkPad X13 Gen 1
 - NeoVim + Tmux
 
 ## 🌐 Socials:
