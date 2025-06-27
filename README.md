@@ -35,11 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 30 mins    ███████████░░░░░░░░░░░░░░   43.54 %
-Svelte       1 hr 8 mins     ████████▒░░░░░░░░░░░░░░░░   32.88 %
-TypeScript   37 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
