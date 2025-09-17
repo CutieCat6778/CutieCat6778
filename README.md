@@ -35,7 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash       3 hrs 53 mins   ██████████████████████░░░   88.60 %
+i3config   25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+conf       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
