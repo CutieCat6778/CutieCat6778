@@ -35,9 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     35 mins         ████████████████████████▓   98.21 %
-i3config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
