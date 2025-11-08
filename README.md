@@ -35,7 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C                30 mins         █████████████████████░░░░   84.05 %
+sh               5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+Raw token data   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
