@@ -21,9 +21,7 @@
 - A small bit of: K8s, Hardwares & Embedded-Programming
 
 ### Tools currently in use
-- Arch Linux
-- Desktop Intel i7 12900 + Rtx 3060
-- ThinkPad X13 Gen 1
+- Macbook Air M4 24GB 512GB
 - NeoVim + Tmux
 
 ## 🌐 Socials:
