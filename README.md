@@ -33,7 +33,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Zig                       42 mins         ██████████████████████▒░░   88.85 %
+INI                       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Other                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+WebGPU Shading Language   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
