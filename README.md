@@ -33,10 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Zig                       42 mins         ██████████████████████▒░░   88.85 %
-INI                       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Other                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-WebGPU Shading Language   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
