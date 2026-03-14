@@ -1,47 +1,107 @@
-# 💫 About Me:
-### Thinh Nguyen
-- Student in Feintechnikschule (With Computer Science major)
-- Based in Villingen-Schwenningen, Germany
-- Nationality: Vietnam (but Bulgarian citizen)
-- Age: 19
-- Languages: German, English, Bulgarian, Vietnamese and little bit of Spanish
+<table>
+<tr>
+<td>
 
-### Languages that I'm familar with
-- GoLang
-- Javascript/Typescript
-- Swift
-- C++
-- Java
+**Thinh Nguyen**  
+Computer Science Student @ **Feintechnikschule**  
+Villingen-Schwenningen, Germany  
+Vietnamese • Bulgarian Citizen  
+19 years old  
 
-### IT Fields
-- Frontend (Web-Application & Mobile)
-- Backend (RestAPIs, NoSQL & SQL Databases)
-- System Admin (Linux, Networking, Docker, Databases)
-- A small bit of: K8s, Hardwares & Embedded-Programming
+Interested in **backend systems, distributed systems and infrastructure**
 
-### Tools currently in use
-- Macbook Air M4 24GB 512GB
-- NeoVim + Tmux
+</td>
+<td>
 
-## 🌐 Socials:
-**For further contacts via E-Mail:** thinh@thinis.de
+| Languages |
+|--------------|
+| German |
+| English |
+| Bulgarian |
+| Vietnamese |
+| Spanish *(basic)* |
 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12344712) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/thinisde) 
+</td>
+</tr>
+</table>
 
+---
 
-# Activity
+# Programming Languages
+
+| Language | Experience |
+|---------|------------|
+| Go | Backend services, APIs |
+| TypeScript / JavaScript | Web applications |
+| Swift | Mobile development |
+| C++ | Systems / performance |
+| Java | General development |
+
+---
+
+# Technical Fields
+
+| Field | Technologies |
+|------|-------------|
+| **Frontend** | Web Applications, Mobile Apps |
+| **Backend** | REST APIs, SQL, NoSQL |
+| **Infrastructure** | Linux, Networking, Docker |
+| **DevOps** | Containers, basic Kubernetes |
+| **Systems** | Hardware, Embedded Programming |
+
+---
+
+# Development Environment
+
+| Tool | Setup |
+|-----|------|
+| Device | MacBook Air M4 (24GB RAM / 512GB SSD) |
+| Editor | NeoVim + Tmux |
+| Systems | macOS / Linux |
+
+---
+
+# Contact
+
+| Platform | Link |
+|--------|------|
+| Email | **thinh@thinis.de** |
+| LinkedIn | https://linkedin.com/in/thinisde |
+| StackOverflow | https://stackoverflow.com/users/12344712 |
+
+---
+
+# Development Activity
+
 <!--START_SECTION:waka-->
-
 ```txt
 C++     4 hrs 29 mins         ████████████████████████▓   98.50 %
 netrw   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
-
 <!--END_SECTION:waka-->
 
-# 📊 GitHub Stats:
-![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/overview.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+---
+
+# GitHub Statistics
+
+![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CutieCat6778&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# Currently Learning
+
+| Topic |
+|------|
+| System Design |
+| Low-level programming |
+
+---
+
+# Interests
+
+- Backend architecture
+- Infrastructure automation
+- Developer tooling
+- Performance engineering
