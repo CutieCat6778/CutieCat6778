@@ -25,20 +25,6 @@ Interested in **backend systems, distributed systems and infrastructure**
 </tr>
 </table>
 
----
-
-# Programming Languages
-
-| Language | Experience |
-|---------|------------|
-| Go | Backend services, APIs |
-| TypeScript / JavaScript | Web applications |
-| Swift | Mobile development |
-| C++ | Systems / performance |
-| Java | General development |
-
----
-
 # Technical Fields
 
 | Field | Technologies |
@@ -49,18 +35,6 @@ Interested in **backend systems, distributed systems and infrastructure**
 | **DevOps** | Containers, basic Kubernetes |
 | **Systems** | Hardware, Embedded Programming |
 
----
-
-# Development Environment
-
-| Tool | Setup |
-|-----|------|
-| Device | MacBook Air M4 (24GB RAM / 512GB SSD) |
-| Editor | NeoVim + Tmux |
-| Systems | macOS / Linux |
-
----
-
 # Contact
 
 | Platform | Link |
@@ -68,8 +42,6 @@ Interested in **backend systems, distributed systems and infrastructure**
 | Email | **thinh@thinis.de** |
 | LinkedIn | https://linkedin.com/in/thinisde |
 | StackOverflow | https://stackoverflow.com/users/12344712 |
-
----
 
 # Development Activity
 
@@ -81,27 +53,5 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
----
-
-# GitHub Statistics
-
 ![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
----
-
-# Currently Learning
-
-| Topic |
-|------|
-| System Design |
-| Low-level programming |
-
----
-
-# Interests
-
-- Backend architecture
-- Infrastructure automation
-- Developer tooling
-- Performance engineering
