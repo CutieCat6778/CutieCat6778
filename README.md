@@ -74,11 +74,11 @@ Interested in **backend systems, distributed systems and infrastructure**
 # Development Activity
 
 <!--START_SECTION:waka-->
+
 ```txt
-C++     4 hrs 29 mins         ████████████████████████▓   98.50 %
-netrw   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ---
