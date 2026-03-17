@@ -48,7 +48,10 @@ Interested in **backend systems, distributed systems and infrastructure**
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Svelte   37 mins               ████████████████████████▓   98.15 %
+netrw    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+CSS      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
