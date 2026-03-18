@@ -48,10 +48,11 @@ Interested in **backend systems, distributed systems and infrastructure**
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte   37 mins               ████████████████████████▓   98.15 %
-netrw    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-CSS      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+netrw        1 hr 36 mins          ████████▓░░░░░░░░░░░░░░░░   34.87 %
+Svelte       1 hr 23 mins          ███████▓░░░░░░░░░░░░░░░░░   30.22 %
+Markdown     36 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Elixir       36 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+Bash         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
