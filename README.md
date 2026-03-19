@@ -48,11 +48,11 @@ Interested in **backend systems, distributed systems and infrastructure**
 <!--START_SECTION:waka-->
 
 ```txt
-netrw        1 hr 36 mins          ████████▓░░░░░░░░░░░░░░░░   34.87 %
-Svelte       1 hr 23 mins          ███████▓░░░░░░░░░░░░░░░░░   30.22 %
-Markdown     36 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-Elixir       36 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Bash         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Bash         6 hrs 25 mins         ███████▓░░░░░░░░░░░░░░░░░   30.94 %
+Elixir       2 hrs 56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+Other        2 hrs 45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Swift        2 hrs 1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+netrw        2 hrs                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
 ```
 
 <!--END_SECTION:waka-->
