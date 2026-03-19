@@ -58,4 +58,3 @@ netrw        2 hrs                 ██▒░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/CutieCat6778/github-stats/master/generated/languages.svg#gh-dark-mode-only)
