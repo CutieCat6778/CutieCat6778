@@ -48,11 +48,11 @@ Interested in **backend systems, distributed systems and infrastructure**
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         10 hrs 6 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
-Elixir       7 hrs 48 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-Swift        6 hrs 15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
-Other        6 hrs 3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
-Markdown     3 hrs 24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Bash         11 hrs 48 mins        ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+Swift        9 hrs 41 mins         █████░░░░░░░░░░░░░░░░░░░░   19.47 %
+Elixir       9 hrs 20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
+Other        7 hrs 6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Markdown     3 hrs 30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
 ```
 
 <!--END_SECTION:waka-->
