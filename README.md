@@ -48,11 +48,11 @@ Interested in **backend systems, distributed systems and infrastructure**
 <!--START_SECTION:waka-->
 
 ```txt
-Other        13 hrs 37 mins        ███████████████▒░░░░░░░░░   61.26 %
-netrw        3 hrs 11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-Go           2 hrs 11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-Markdown     1 hr 6 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Bash         1 hr 2 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Other        12 hrs 42 mins        ████████████░░░░░░░░░░░░░   48.62 %
+Go           4 hrs 15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+Bash         2 hrs 52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+netrw        2 hrs 8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Markdown     1 hr 35 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
 ```
 
 <!--END_SECTION:waka-->
