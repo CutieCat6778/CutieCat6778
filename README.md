@@ -48,11 +48,11 @@ Interested in **backend systems, distributed systems and infrastructure**
 <!--START_SECTION:waka-->
 
 ```txt
-Bash              20 hrs 44 mins        ███████░░░░░░░░░░░░░░░░░░   27.93 %
-Python            14 hrs 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.97 %
-JSON              8 hrs 42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-Go                6 hrs 58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Other             6 hrs 22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Bash              22 hrs 55 mins        ███████▒░░░░░░░░░░░░░░░░░   28.78 %
+Python            14 hrs 56 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
+TypeScript        9 hrs 25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+JSON              9 hrs 13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Go                6 hrs 34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
 ```
 
 <!--END_SECTION:waka-->
