@@ -48,11 +48,11 @@ Interested in **backend systems, distributed systems and infrastructure**
 <!--START_SECTION:waka-->
 
 ```txt
-Swift         17 hrs 5 mins         ████████░░░░░░░░░░░░░░░░░   32.46 %
-Markdown      12 hrs 57 mins        ██████░░░░░░░░░░░░░░░░░░░   24.63 %
-Go            11 hrs 40 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
-Text          3 hrs 39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-Other         1 hr 59 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Go            15 hrs 16 mins        ████████▓░░░░░░░░░░░░░░░░   34.93 %
+Swift         12 hrs 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.70 %
+Markdown      9 hrs 38 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+Other         1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Bash          1 hr 2 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
