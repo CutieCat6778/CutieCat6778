@@ -48,11 +48,11 @@ Interested in **backend systems, distributed systems and infrastructure**
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          7 hrs 25 mins         ████████▓░░░░░░░░░░░░░░░░   34.48 %
-Go                4 hrs 33 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
-JSON              3 hrs 34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
-Swift             3 hrs 10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-TypeScript        1 hr 23 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Markdown     5 hrs 51 mins         ████████░░░░░░░░░░░░░░░░░   31.49 %
+JSON         5 hrs 43 mins         ███████▓░░░░░░░░░░░░░░░░░   30.76 %
+Go           5 hrs 18 mins         ███████░░░░░░░░░░░░░░░░░░   28.48 %
+TypeScript   49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Svelte       33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
