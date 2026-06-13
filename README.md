@@ -48,11 +48,9 @@ Interested in **backend systems, distributed systems and infrastructure**
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     10 hrs 15 mins        ███████████████░░░░░░░░░░   60.07 %
-Go           1 hr 54 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-Text         1 hr 41 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Dart         1 hr 39 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-Swift        26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Markdown   43 mins               ████████████████████████▓   98.73 %
+netrw      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
