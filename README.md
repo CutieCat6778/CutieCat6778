@@ -48,9 +48,9 @@ Interested in **backend systems, distributed systems and infrastructure**
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   43 mins               ████████████████████████▓   98.73 %
-netrw      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Markdown   9 mins                ███████████████████████▓░   94.41 %
+netrw      0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Other      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
