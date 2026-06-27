@@ -12,6 +12,9 @@ Interested in **backend systems, distributed systems and infrastructure**
 
 </td>
 <td>
+  I'm trying to detox from vibecoding, it is corrupting my brain...
+</td>
+<td>
 
 | Languages |
 |--------------|
