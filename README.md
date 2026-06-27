@@ -48,11 +48,11 @@ Interested in **backend systems, distributed systems and infrastructure**
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     5 hrs 16 mins         ████████░░░░░░░░░░░░░░░░░   31.99 %
-Python       4 hrs 15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-Zig          3 hrs 21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-Other        2 hrs 10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-Bash         17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Zig              9 hrs 7 mins          ██████████████████░░░░░░░   72.64 %
+Markdown         1 hr 22 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Python           32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+netrw            26 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+C++              13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
