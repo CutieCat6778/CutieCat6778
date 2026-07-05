@@ -51,11 +51,11 @@ I'm trying to detox from vibecoding, it is corrupting my brain...
 <!--START_SECTION:waka-->
 
 ```txt
-Zig        9 hrs 16 mins         █████████████████▓░░░░░░░   70.69 %
-Markdown   2 hrs 43 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
-Go         29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-YAML       12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-netrw      12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Zig          6 hrs 3 mins          █████████████▒░░░░░░░░░░░   53.58 %
+Markdown     2 hrs 43 mins         ██████░░░░░░░░░░░░░░░░░░░   24.13 %
+Go           1 hr 16 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+netrw        42 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+YAML         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
