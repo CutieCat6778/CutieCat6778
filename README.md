@@ -51,11 +51,11 @@ I'm trying to detox from vibecoding, it is corrupting my brain...
 <!--START_SECTION:waka-->
 
 ```txt
-Go         25 hrs 13 mins        ████████████▒░░░░░░░░░░░░   48.69 %
-Markdown   14 hrs 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.41 %
-Other      3 hrs 5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-SQL        2 hrs 36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Bash       2 hrs 27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Go           9 hrs 42 mins         ████████░░░░░░░░░░░░░░░░░   32.51 %
+Markdown     8 hrs 1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
+Other        3 hrs 7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+SQL          2 hrs 41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Bash         2 hrs 38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
 ```
 
 <!--END_SECTION:waka-->
